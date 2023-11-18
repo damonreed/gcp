@@ -17,4 +17,4 @@ gcloud compute networks list
 gcloud compute networks subnets list
 gcloud compute firewall-rules list
 gcloud compute instances list
-
+bq ls
