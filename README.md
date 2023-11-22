@@ -1,6 +1,7 @@
 # gcp
 GCP Notes and Solutions
 
-A collection of my mostly successful lab completions at https://www.cloudskillsboost.google
-
+* General utility commands
+* A collection of my mostly successful lab completions at https://www.cloudskillsboost.google
+* Experiments in terraform
 
